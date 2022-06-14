@@ -1,7 +1,7 @@
 from tkinter import *
 
 window =  Tk()
-window.title("BMI Calculator")
+window.title("Body Mass Index (BMI) Calculator")
 window.config(height=300,width=500, padx=20,pady=20)
 
 weight_label=Label(text="Weight/kg", padx=20,pady=20)
